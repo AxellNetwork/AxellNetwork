@@ -1,11 +1,14 @@
 <html>
  <body>
 <div class="info">
- <img src= "https://files.catbox.moe/h73x0c.jpg"></img>
+<p align ="center">
+ <img src= "https://files.catbox.moe/h73x0c.jpg" witdh = "100px"></img>
+</p>
   <h1 align="center">AxellNetwork | Profile</h1>
   
-  <img src="https://media1.tenor.com/m/SpCx20fAxhgAAAAC/chika-dance.gif" align = "right" width = "140px"></img>
-  
+  <img src="https://media1.tenor.com/m/SpCx20fAxhgAAAAC/chika-dance.gif" align = "right" width = "170"></img>
+  <p width = "40">
+   
 ```csharp
 -------------------------
 Hostname: AxellNetwork
@@ -15,9 +18,11 @@ Location: Indonesia, West Javaa
 domain: axeel.my.id
 ------------------------
 ```
+
+</p>
 </div>
 <div class="music">
-  <br>q
+  <br
 <br>
 <p align="left"> 
  <a src="https://music.youtube.com/watch?v=oXZcuHIR5ko&si=EZ6TsHwvDBPlOGIO">
