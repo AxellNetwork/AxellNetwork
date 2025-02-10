@@ -6,7 +6,7 @@
 </p>
   <h1 align="center">AxellNetwork | Profile</h1>
   
-  <img src="https://media1.tenor.com/m/SpCx20fAxhgAAAAC/chika-dance.gif" align = "right" width = "170"></img>
+  <img src="https://media1.tenor.com/m/SpCx20fAxhgAAAAC/chika-dance.gif" align = "right" width = "140"></img>
   <p width = "40">
    
 ```csharp
